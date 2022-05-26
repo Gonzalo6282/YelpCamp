@@ -4,7 +4,7 @@ YelpCamp is a website where users can create and review campgrounds. In order to
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
-Live demo: https://floating-anchorage-90689.herokuapp.com/
+[Live demo](https://floating-anchorage-90689.herokuapp.com/)
 
 ![This is an image](https://github.com/Gonzalo6282/YelpCamp/blob/main/yelp1.png)
 
